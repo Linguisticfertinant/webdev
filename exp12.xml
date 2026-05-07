@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Exp12-1.xsl"?>
+
+<friends>
+    <friend>
+        <name>Rahul</name>
+        <age>20</age>
+        <course>Computer Science</course>
+    </friend>
+
+    <friend>
+        <name>Anita</name>
+        <age>22</age>
+        <course>Information Technology</course>
+    </friend>
+</friends>
